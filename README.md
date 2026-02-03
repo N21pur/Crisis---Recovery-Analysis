@@ -46,8 +46,10 @@ Special thanks to **Hemanand sir** and **Dhaval Patel** for the **Codebasics Res
 ---
 
 ## 🔗 Connect
+**Project Live Link:** [https://codebasics.io/portfolio/Nupur-Gupta](https://app.powerbi.com/view?r=eyJrIjoiNjZmMGMzMTMtYjg0Ny00NTc0LThmYWYtNWEwMzM4NmIxYTFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - **LinkedIn:** https://www.linkedin.com/in/nupur-gupta28/  
-- **Portfolio:** https://codebasics.io/portfolio/Nupur-Gupta  
+- **Portfolio:** https://codebasics.io/portfolio/Nupur-Gupta
+
 
 ---
 
